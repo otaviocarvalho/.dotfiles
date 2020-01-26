@@ -101,6 +101,7 @@ source $ZSH/oh-my-zsh.sh
 ### Personal configuration
 # zshrc.local
 source ~/.zshrc.local
+source ~/.zshrc.local.aliases
 
 # newrelic
 source ~/newrelic/utils/newrelic.sh

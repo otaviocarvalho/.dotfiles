@@ -1,0 +1,3 @@
+# Add alias to brew vim with clipboard config for mac
+alias vim="/usr/local/bin/vim"
+
